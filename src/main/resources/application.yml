@@ -1,0 +1,6 @@
+logging:
+  level:
+    org.springframework.messaging: DEBUG
+
+server:
+  port: 9000
